@@ -1,0 +1,132 @@
+[
+  {
+    "id": 2,
+    "name": "БЕОГРАД - ЗЕЛЕНО БРДО",
+    "description": "Zgrada Agencije"
+  },
+  {
+    "id": 1,
+    "name": "БЕОГРАД - НОВИ БЕОГРАД",
+    "description": "Zgrada Opsine"
+  },
+  {
+    "id": 17,
+    "name": "БЕЧЕЈ",
+    "description": "Zgrada sportskog centra Mladost"
+  },
+  {
+    "id": 27,
+    "name": "ВАЉЕВО",
+    "description": "Zgrada Opstine"
+  },
+  {
+    "id": 8,
+    "name": "ВРАЊЕ",
+    "description": "Zgrada Zavoda"
+  },
+  {
+    "id": 25,
+    "name": "ВРБАС",
+    "description": "Zgrada Skupštine opštine"
+  },
+  {
+    "id": 9,
+    "name": "ВРШАЦ",
+    "description": ""
+  },
+  {
+    "id": 10,
+    "name": "ЗАЈЕЧАР",
+    "description": "Jugoistok-ogranak ED Zajecar"
+  },
+  {
+    "id": 16,
+    "name": "ЗЛАТИБОР",
+    "description": "Auto kamp"
+  },
+  {
+    "id": 26,
+    "name": "ЗРЕЊАНИН",
+    "description": "Institut za javno zdravlje"
+  },
+  {
+    "id": 22,
+    "name": "КИКИНДА",
+    "description": "Zgrada Opšte bolnice"
+  },
+  {
+    "id": 4,
+    "name": "КРАГУЈЕВАЦ",
+    "description": "Zgrada Instituta"
+  },
+  {
+    "id": 12,
+    "name": "КРАЉЕВО",
+    "description": "JKP Putevi"
+  },
+  {
+    "id": 5,
+    "name": "КРУШЕВАЦ",
+    "description": "Zgrada Zavoda"
+  },
+  {
+    "id": 6,
+    "name": "КУЛА",
+    "description": "Dom kulture"
+  },
+  {
+    "id": 14,
+    "name": "ЛОЗНИЦА",
+    "description": "Zdravstveni centar Dr Milenko Marin"
+  },
+  {
+    "id": 15,
+    "name": "НИШ",
+    "description": "Institut za javno zdravlje"
+  },
+  {
+    "id": 20,
+    "name": "НОВИ ПАЗАР",
+    "description": "Zgrada gradske uprave"
+  },
+  {
+    "id": 21,
+    "name": "ОБРЕНОВАЦ",
+    "description": "JP za zastitu zivotne sredine"
+  },
+  {
+    "id": 11,
+    "name": "ПАНЧЕВО",
+    "description": "Gradska uprava grada Pančevo"
+  },
+  {
+    "id": 7,
+    "name": "ПОЖАРЕВАЦ",
+    "description": "Zgrada Zavoda"
+  },
+  {
+    "id": 19,
+    "name": "СОКОБАЊА",
+    "description": "Bolnica za plucne bolesti"
+  },
+  {
+    "id": 24,
+    "name": "СОМБОР",
+    "description": "Institut za javno zdravlje"
+  },
+  {
+    "id": 23,
+    "name": "СРЕМСКА МИТРОВИЦА",
+    "description": "Zgrada osnovnog Suda"
+  },
+  {
+    "id": 13,
+    "name": "СУБОТИЦА",
+    "description": "Zgrada Zavoda"
+  },
+  {
+    "id": 3,
+    "name": "ЧАЧАК",
+    "description": "Zavod za javno zdravlje"
+  }
+]

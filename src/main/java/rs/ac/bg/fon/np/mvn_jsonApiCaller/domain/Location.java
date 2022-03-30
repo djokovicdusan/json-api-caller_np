@@ -10,6 +10,9 @@ public class Location {
 	private int id;
 	private String name;
 	private String description;
+	public Location() {
+		
+	}
 	
 	public int getId() {
 		return id;
